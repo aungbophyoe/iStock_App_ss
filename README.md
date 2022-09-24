@@ -1,8 +1,8 @@
 # iStock App (screenshot)
 
 > ### Login to iStock app
-<img src="./ss/istock_1.png" width="700" height="400">
-<img src="./ss/istock_2.png" width="700" height="400">
+<img src="./ss/istock_1.png">
+<img src="./ss/istock_2.png" width="700" height="600">
 <br>
 
 > ### Main screen with 3 categories and logout
